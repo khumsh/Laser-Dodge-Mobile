@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LaserX
+  - LaserY
+  - Small Item
+  - Speed Item
+  - LaserX1
+  - LaserY1
+  - GameOver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PauseUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1739048363
+    locked: 0
+  - name: Midground
+    uniqueID: 1411064949
+    locked: 0
+  - name: Foreground
+    uniqueID: 3016528861
+    locked: 0
+  - name: OuterCircle
+    uniqueID: 3186526333
+    locked: 0
+  - name: Circle
+    uniqueID: 4125772729
+    locked: 0
